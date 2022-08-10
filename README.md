@@ -1,2 +1,2 @@
 # School-21-projects
-Config files for my GitHub profile.
+Мои проекты из школы  21
